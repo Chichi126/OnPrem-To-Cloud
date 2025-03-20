@@ -1,0 +1,9 @@
+venv
+
+.terraform/*
+
+/.terraform/providers/
+
+/home/amdari/apex-env/infra-cloud/.terraform.lock.hcl
+
+config.json
