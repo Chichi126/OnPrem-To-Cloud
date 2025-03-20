@@ -1,0 +1,35 @@
+[2025-03-19T18:23:07.302+0000] {processor.py:186} INFO - Started process (PID=43144) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:07.303+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-03-19T18:23:07.306+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.306+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:07.321+0000] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:07.419+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.418+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:07.433+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.433+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-03-19T18:23:07.459+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.167 seconds
+[2025-03-19T18:23:37.798+0000] {processor.py:186} INFO - Started process (PID=43576) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:37.799+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-03-19T18:23:37.803+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.802+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:37.817+0000] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:23:37.857+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.856+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:37.874+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.873+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-03-19T18:23:37.893+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2025-03-19T18:24:09.752+0000] {processor.py:186} INFO - Started process (PID=43925) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:09.754+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-03-19T18:24:09.758+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.757+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:09.772+0000] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:09.855+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.854+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:09.869+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.869+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-03-19T18:24:09.889+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.146 seconds
+[2025-03-19T18:24:42.216+0000] {processor.py:186} INFO - Started process (PID=44306) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:42.218+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-03-19T18:24:42.221+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:42.221+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:42.236+0000] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:24:42.572+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:42.571+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:42.584+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:42.584+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-03-19T18:24:42.606+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.398 seconds
+[2025-03-19T18:25:13.248+0000] {processor.py:186} INFO - Started process (PID=44753) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:25:13.250+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-03-19T18:25:13.254+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:13.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:25:13.268+0000] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-03-19T18:25:13.598+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:13.598+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:13.611+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:13.610+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-03-19T18:25:13.631+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.396 seconds

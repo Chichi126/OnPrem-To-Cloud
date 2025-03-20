@@ -1,0 +1,25 @@
+[2025-03-19T18:23:03.798+0000] {processor.py:186} INFO - Started process (PID=42882) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:03.799+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-03-19T18:23:03.803+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.803+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:03.806+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:03.834+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2025-03-19T18:23:34.603+0000] {processor.py:186} INFO - Started process (PID=43372) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:34.604+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-03-19T18:23:34.608+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.607+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:34.611+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:23:34.636+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2025-03-19T18:24:05.392+0000] {processor.py:186} INFO - Started process (PID=43723) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:05.394+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-03-19T18:24:05.397+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.396+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:05.400+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:05.425+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2025-03-19T18:24:36.249+0000] {processor.py:186} INFO - Started process (PID=44073) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:36.250+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-03-19T18:24:36.253+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:36.256+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:24:36.282+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2025-03-19T18:25:07.103+0000] {processor.py:186} INFO - Started process (PID=44549) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:25:07.105+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-03-19T18:25:07.109+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.108+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:25:07.112+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-03-19T18:25:07.139+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds

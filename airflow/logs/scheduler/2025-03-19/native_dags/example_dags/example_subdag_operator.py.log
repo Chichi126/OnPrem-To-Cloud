@@ -1,0 +1,60 @@
+[2025-03-19T18:23:04.389+0000] {processor.py:186} INFO - Started process (PID=42936) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:04.391+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-19T18:23:04.394+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.393+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:04.435+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:04.507+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.507+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-19T18:23:04.530+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.530+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-19T18:23:04.533+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.533+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:23:04.534+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.534+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:23:04.544+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.544+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-19T18:23:04.550+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.550+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:23:04.550+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.550+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:23:04.562+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.182 seconds
+[2025-03-19T18:23:35.184+0000] {processor.py:186} INFO - Started process (PID=43424) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:35.185+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-19T18:23:35.188+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:35.231+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:23:35.251+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.251+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-19T18:23:35.520+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.520+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-19T18:23:35.524+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.523+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:23:35.525+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.525+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:23:35.532+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.532+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-19T18:23:35.538+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.538+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:23:35.538+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.538+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:23:35.549+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.374 seconds
+[2025-03-19T18:24:06.162+0000] {processor.py:186} INFO - Started process (PID=43775) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:06.164+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-19T18:24:06.167+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.167+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:06.209+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:06.228+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.228+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-19T18:24:06.497+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.497+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-19T18:24:06.501+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.501+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:24:06.502+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.502+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:24:06.510+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.509+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-19T18:24:06.516+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.516+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:24:06.517+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.517+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:24:06.529+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.376 seconds
+[2025-03-19T18:24:37.001+0000] {processor.py:186} INFO - Started process (PID=44125) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:37.002+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-19T18:24:37.005+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.004+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:37.047+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:24:37.066+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.065+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-19T18:24:37.338+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.337+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-19T18:24:37.341+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.341+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:24:37.343+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.343+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:24:37.350+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.350+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-19T18:24:37.356+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.355+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:24:37.356+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.356+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:24:37.367+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.375 seconds
+[2025-03-19T18:25:07.957+0000] {processor.py:186} INFO - Started process (PID=44601) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:25:07.960+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-19T18:25:07.963+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.962+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:25:08.006+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-19T18:25:08.025+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.024+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-19T18:25:08.295+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.295+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-19T18:25:08.299+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.299+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:25:08.301+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.301+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:25:08.310+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.310+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-19T18:25:08.318+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.318+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-19T18:25:08.319+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.319+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-19T18:25:08.331+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.382 seconds

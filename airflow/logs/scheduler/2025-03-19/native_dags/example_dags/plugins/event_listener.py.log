@@ -1,0 +1,25 @@
+[2025-03-19T18:23:03.905+0000] {processor.py:186} INFO - Started process (PID=42898) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:03.907+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-19T18:23:03.910+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.909+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:03.913+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:03.939+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.043 seconds
+[2025-03-19T18:23:34.705+0000] {processor.py:186} INFO - Started process (PID=43388) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:34.707+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-19T18:23:34.710+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.709+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:34.713+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:23:34.745+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.048 seconds
+[2025-03-19T18:24:05.498+0000] {processor.py:186} INFO - Started process (PID=43738) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:05.500+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-19T18:24:05.503+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:05.506+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:05.534+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.044 seconds
+[2025-03-19T18:24:36.350+0000] {processor.py:186} INFO - Started process (PID=44089) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:36.351+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-19T18:24:36.354+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.354+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:36.357+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:24:36.384+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.043 seconds
+[2025-03-19T18:25:07.257+0000] {processor.py:186} INFO - Started process (PID=44567) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:25:07.259+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-19T18:25:07.263+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.262+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:25:07.266+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-19T18:25:07.294+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.045 seconds

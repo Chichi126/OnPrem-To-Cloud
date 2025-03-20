@@ -1,0 +1,60 @@
+version: 2
+
+sources: 
+  - name: source_apex
+    database: hybrid-flame-454115-t2
+    schema: apex_db
+    tables: 
+      - name: regions
+        description: "This table contains the regions data"
+      - name: products
+        description: "This table contains the products data"
+      - name: ghana_customers
+        description: "This table contains Ghana's customers data"
+      - name: ghana_transactions
+        description: "This table contains Ghana's transactions data"
+      - name: kenya_transactions
+        description: "This table contains Kenya's transactions data"
+      - name: kenya_customers
+        description: "This table contains Kenya's customers data"
+      - name: nigeria_customers
+        description: "This table contains Nigeria's customers data"
+      - name: nigeria_transactions
+        description: "This table contains Nigeria's transactions data"
+
+models:
+  - name: stg_ghana
+    description: "Staging model for Ghana transactions"
+    columns:
+      - name: product_id
+        description: "Product ID"
+        tests:
+          - not_null
+      - name: region_id
+        description: "Region ID"
+        tests:
+          - not_null
+
+  - name: stg_kenya
+    description: "Staging model for Kenya transactions"
+    columns:
+      - name: product_id
+        description: "Product ID"
+        tests:
+          - not_null
+      - name: region_id
+        description: "Region ID"
+        tests:
+          - not_null
+
+  - name: stg_nigeria
+    description: "Staging model for Nigeria transactions"
+    columns:
+      - name: product_id
+        description: "Product ID"
+        tests:
+          - not_null
+      - name: region_id
+        description: "Region ID"
+        tests:
+          - not_null

@@ -1,0 +1,35 @@
+[2025-03-19T18:23:03.980+0000] {processor.py:186} INFO - Started process (PID=42910) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:03.981+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-19T18:23:03.984+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.984+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:04.000+0000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:04.088+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.087+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:04.114+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.113+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-19 18:20:00+00:00, run_after=2025-03-19 18:22:00+00:00
+[2025-03-19T18:23:04.135+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.164 seconds
+[2025-03-19T18:23:34.790+0000] {processor.py:186} INFO - Started process (PID=43400) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:34.792+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-19T18:23:34.795+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.794+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:34.808+0000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:23:34.843+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.842+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:35.117+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.116+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-19 18:20:00+00:00, run_after=2025-03-19 18:22:00+00:00
+[2025-03-19T18:23:35.137+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.355 seconds
+[2025-03-19T18:24:05.578+0000] {processor.py:186} INFO - Started process (PID=43751) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:05.580+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-19T18:24:05.585+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.584+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:05.601+0000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:05.637+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:05.912+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.912+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:24:05.931+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.363 seconds
+[2025-03-19T18:24:36.426+0000] {processor.py:186} INFO - Started process (PID=44101) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:36.427+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-19T18:24:36.430+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.430+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:36.443+0000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:24:36.476+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.475+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:36.749+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.748+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:24:36.766+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.349 seconds
+[2025-03-19T18:25:07.406+0000] {processor.py:186} INFO - Started process (PID=44579) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:25:07.407+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-19T18:25:07.411+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.410+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:25:07.423+0000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-19T18:25:07.463+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.462+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:07.741+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.740+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:25:07.760+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.363 seconds

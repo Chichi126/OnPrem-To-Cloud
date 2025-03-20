@@ -1,0 +1,35 @@
+[2025-03-19T18:23:06.111+0000] {processor.py:186} INFO - Started process (PID=43014) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:06.112+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-19T18:23:06.115+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:06.130+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:06.221+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.221+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:06.237+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.237+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-19T18:23:06.260+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.158 seconds
+[2025-03-19T18:23:36.822+0000] {processor.py:186} INFO - Started process (PID=43502) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:36.823+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-19T18:23:36.826+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.826+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:36.841+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:23:36.881+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.881+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.898+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.898+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-19T18:23:36.922+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.109 seconds
+[2025-03-19T18:24:08.679+0000] {processor.py:186} INFO - Started process (PID=43853) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:08.681+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-19T18:24:08.684+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.684+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:08.700+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:08.739+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.738+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:08.756+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.756+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-19T18:24:08.777+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds
+[2025-03-19T18:24:39.489+0000] {processor.py:186} INFO - Started process (PID=44219) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:39.493+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-19T18:24:39.496+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.496+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:39.511+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:24:39.550+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.550+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:39.810+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.810+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-19T18:24:39.831+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.351 seconds
+[2025-03-19T18:25:10.534+0000] {processor.py:186} INFO - Started process (PID=44679) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:25:10.536+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-19T18:25:10.539+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.539+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:25:10.554+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-19T18:25:10.595+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.595+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:10.860+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.860+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-19T18:25:10.879+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.354 seconds

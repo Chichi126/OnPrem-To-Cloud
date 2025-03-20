@@ -1,0 +1,35 @@
+[2025-03-19T18:23:07.089+0000] {processor.py:186} INFO - Started process (PID=43120) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:07.091+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-19T18:23:07.094+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.094+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:07.104+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:07.193+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.193+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:07.208+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.208+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-19T18:23:07.230+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.149 seconds
+[2025-03-19T18:23:37.519+0000] {processor.py:186} INFO - Started process (PID=43558) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:37.520+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-19T18:23:37.524+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.524+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:37.534+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:23:37.569+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.568+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:37.586+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.586+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-19T18:23:37.605+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.095 seconds
+[2025-03-19T18:24:09.620+0000] {processor.py:186} INFO - Started process (PID=43915) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:09.622+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-19T18:24:09.626+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.625+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:09.636+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:09.671+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.671+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:09.689+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.689+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-19T18:24:09.711+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.100 seconds
+[2025-03-19T18:24:41.837+0000] {processor.py:186} INFO - Started process (PID=44294) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:41.838+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-19T18:24:41.842+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:41.841+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:41.852+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:24:42.134+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:41.888+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:42.149+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:42.149+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-19T18:24:42.169+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.341 seconds
+[2025-03-19T18:25:12.860+0000] {processor.py:186} INFO - Started process (PID=44743) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:25:12.862+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-03-19T18:25:12.866+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:12.865+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:25:12.875+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-03-19T18:25:13.161+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:12.911+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:13.175+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:13.175+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-03-19T18:25:13.196+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.345 seconds

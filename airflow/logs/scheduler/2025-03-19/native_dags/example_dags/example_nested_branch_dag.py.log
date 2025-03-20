@@ -1,0 +1,35 @@
+[2025-03-19T18:23:05.741+0000] {processor.py:186} INFO - Started process (PID=42996) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:05.742+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-19T18:23:05.746+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.745+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:05.759+0000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:05.851+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.850+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:05.879+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.879+0000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:05.903+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.171 seconds
+[2025-03-19T18:23:36.638+0000] {processor.py:186} INFO - Started process (PID=43484) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:36.639+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-19T18:23:36.642+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.642+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:36.657+0000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:23:36.693+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.693+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.723+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.722+0000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:36.742+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.113 seconds
+[2025-03-19T18:24:08.175+0000] {processor.py:186} INFO - Started process (PID=43835) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:08.177+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-19T18:24:08.181+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.180+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:08.196+0000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:08.237+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.236+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:08.509+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.509+0000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:08.529+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.362 seconds
+[2025-03-19T18:24:39.005+0000] {processor.py:186} INFO - Started process (PID=44186) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:39.007+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-19T18:24:39.010+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.009+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:39.024+0000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:24:39.063+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.062+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:39.339+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.339+0000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:39.358+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.362 seconds
+[2025-03-19T18:25:09.965+0000] {processor.py:186} INFO - Started process (PID=44661) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:25:09.966+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-19T18:25:09.970+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.969+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:25:09.984+0000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-19T18:25:10.023+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.022+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:10.298+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.298+0000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:25:10.319+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.363 seconds

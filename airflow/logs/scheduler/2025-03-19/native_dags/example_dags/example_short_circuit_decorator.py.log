@@ -1,0 +1,35 @@
+[2025-03-19T18:23:06.707+0000] {processor.py:186} INFO - Started process (PID=43091) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:06.709+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-03-19T18:23:06.712+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.712+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:06.725+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:06.814+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:06.827+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.827+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-03-19T18:23:06.847+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.148 seconds
+[2025-03-19T18:23:37.238+0000] {processor.py:186} INFO - Started process (PID=43532) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:37.240+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-03-19T18:23:37.243+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.242+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:37.255+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:23:37.292+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.291+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:37.308+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.308+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-03-19T18:23:37.327+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.097 seconds
+[2025-03-19T18:24:09.177+0000] {processor.py:186} INFO - Started process (PID=43883) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:09.179+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-03-19T18:24:09.182+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:09.194+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:09.233+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.232+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:09.250+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.249+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-03-19T18:24:09.272+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.104 seconds
+[2025-03-19T18:24:40.653+0000] {processor.py:186} INFO - Started process (PID=44266) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:40.655+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-03-19T18:24:40.658+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:40.658+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:40.671+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:24:40.711+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:40.711+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:40.970+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:40.970+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-03-19T18:24:40.990+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.346 seconds
+[2025-03-19T18:25:11.612+0000] {processor.py:186} INFO - Started process (PID=44710) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:25:11.613+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-03-19T18:25:11.616+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:11.616+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:25:11.628+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-03-19T18:25:11.668+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:11.667+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:11.929+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:11.928+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-03-19T18:25:11.948+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.345 seconds

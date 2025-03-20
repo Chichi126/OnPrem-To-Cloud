@@ -1,0 +1,35 @@
+[2025-03-19T18:23:04.793+0000] {processor.py:186} INFO - Started process (PID=42954) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:04.794+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-19T18:23:04.798+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.798+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:04.810+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:04.902+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.901+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:04.925+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.924+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-19T18:23:04.945+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.161 seconds
+[2025-03-19T18:23:35.876+0000] {processor.py:186} INFO - Started process (PID=43442) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:35.878+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-19T18:23:35.881+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.880+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:35.892+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:23:35.927+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.927+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.199+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.199+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-19T18:23:36.219+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.351 seconds
+[2025-03-19T18:24:06.968+0000] {processor.py:186} INFO - Started process (PID=43799) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:06.970+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-19T18:24:06.974+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.973+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:06.986+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:07.023+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:07.299+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.299+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-19T18:24:07.319+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.359 seconds
+[2025-03-19T18:24:37.571+0000] {processor.py:186} INFO - Started process (PID=44143) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:37.572+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-19T18:24:37.575+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.575+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:37.587+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:24:37.624+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.624+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:37.894+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.893+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-19T18:24:37.913+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.351 seconds
+[2025-03-19T18:25:08.584+0000] {processor.py:186} INFO - Started process (PID=44619) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:25:08.586+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-19T18:25:08.589+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.589+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:25:08.601+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-19T18:25:08.639+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.638+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:08.911+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.911+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-19T18:25:08.931+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.355 seconds

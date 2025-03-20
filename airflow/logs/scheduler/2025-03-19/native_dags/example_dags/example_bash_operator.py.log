@@ -1,0 +1,35 @@
+[2025-03-19T18:23:09.801+0000] {processor.py:186} INFO - Started process (PID=43298) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:09.802+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-19T18:23:09.805+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:09.805+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:09.822+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:09.913+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:09.913+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:10.177+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:10.177+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:10.199+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.407 seconds
+[2025-03-19T18:23:40.290+0000] {processor.py:186} INFO - Started process (PID=43657) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:40.291+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-19T18:23:40.294+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:40.311+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:23:40.354+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.354+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:40.383+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.383+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:40.405+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.124 seconds
+[2025-03-19T18:24:10.943+0000] {processor.py:186} INFO - Started process (PID=44009) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:10.944+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-19T18:24:10.948+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.947+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:10.964+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:11.007+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:11.007+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:11.036+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:11.036+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:11.056+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.122 seconds
+[2025-03-19T18:24:43.978+0000] {processor.py:186} INFO - Started process (PID=44391) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:43.979+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-19T18:24:43.983+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.982+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:43.999+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:24:44.042+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:44.042+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:44.071+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:44.071+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:44.092+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.124 seconds
+[2025-03-19T18:25:15.044+0000] {processor.py:186} INFO - Started process (PID=44838) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:25:15.046+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-19T18:25:15.049+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:15.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:25:15.066+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-19T18:25:15.111+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:15.111+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:15.141+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:15.140+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:25:15.162+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.127 seconds

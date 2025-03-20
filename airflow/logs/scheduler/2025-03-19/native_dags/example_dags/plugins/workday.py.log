@@ -1,0 +1,25 @@
+[2025-03-19T18:23:03.824+0000] {processor.py:186} INFO - Started process (PID=42885) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:03.825+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-19T18:23:03.829+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.829+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:03.834+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:03.863+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.048 seconds
+[2025-03-19T18:23:34.624+0000] {processor.py:186} INFO - Started process (PID=43375) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:34.625+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-19T18:23:34.628+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.628+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:34.632+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:23:34.662+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2025-03-19T18:24:05.412+0000] {processor.py:186} INFO - Started process (PID=43726) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:05.414+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-19T18:24:05.417+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.417+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:05.420+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:05.452+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.049 seconds
+[2025-03-19T18:24:36.272+0000] {processor.py:186} INFO - Started process (PID=44076) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:36.273+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-19T18:24:36.276+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.276+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:36.279+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:24:36.306+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.043 seconds
+[2025-03-19T18:25:07.178+0000] {processor.py:186} INFO - Started process (PID=44555) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:25:07.181+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-19T18:25:07.184+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.183+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:25:07.187+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-19T18:25:07.216+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds

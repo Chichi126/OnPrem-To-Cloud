@@ -1,0 +1,35 @@
+[2025-03-19T18:23:08.669+0000] {processor.py:186} INFO - Started process (PID=43268) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:08.670+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-03-19T18:23:08.674+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:08.673+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:08.697+0000] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:08.797+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:08.797+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:09.062+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:09.062+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:09.083+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.422 seconds
+[2025-03-19T18:23:39.538+0000] {processor.py:186} INFO - Started process (PID=43627) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:39.539+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-03-19T18:23:39.543+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.542+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:39.565+0000] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:23:39.609+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:39.638+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.638+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:39.658+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.129 seconds
+[2025-03-19T18:24:10.496+0000] {processor.py:186} INFO - Started process (PID=43979) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:10.499+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-03-19T18:24:10.503+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:10.524+0000] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:10.578+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.577+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:10.606+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.606+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:10.627+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.140 seconds
+[2025-03-19T18:24:43.533+0000] {processor.py:186} INFO - Started process (PID=44363) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:43.534+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-03-19T18:24:43.538+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.537+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:43.560+0000] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:24:43.608+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.607+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:43.636+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.636+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:43.658+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.134 seconds
+[2025-03-19T18:25:14.606+0000] {processor.py:186} INFO - Started process (PID=44814) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:25:14.608+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-03-19T18:25:14.611+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.611+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:25:14.633+0000] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-03-19T18:25:14.678+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.677+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:14.706+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.706+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:25:14.727+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.130 seconds

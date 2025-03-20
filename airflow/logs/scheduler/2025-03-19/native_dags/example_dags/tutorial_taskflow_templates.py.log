@@ -1,0 +1,35 @@
+[2025-03-19T18:23:02.927+0000] {processor.py:186} INFO - Started process (PID=42861) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:02.929+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-03-19T18:23:02.933+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.932+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:02.949+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:03.043+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.043+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:03.310+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:03.310+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:03.334+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.417 seconds
+[2025-03-19T18:23:34.087+0000] {processor.py:186} INFO - Started process (PID=43351) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:34.088+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-03-19T18:23:34.091+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.091+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:34.107+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:23:34.145+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:34.176+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.176+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:34.438+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.360 seconds
+[2025-03-19T18:24:04.878+0000] {processor.py:186} INFO - Started process (PID=43702) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:04.880+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-03-19T18:24:04.883+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:04.883+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:04.899+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:04.935+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:04.934+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:04.963+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:04.962+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:05.230+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.360 seconds
+[2025-03-19T18:24:35.737+0000] {processor.py:186} INFO - Started process (PID=44052) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:35.738+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-03-19T18:24:35.741+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:35.740+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:35.756+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:24:35.790+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:35.790+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:35.818+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:35.818+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:36.080+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.351 seconds
+[2025-03-19T18:25:06.571+0000] {processor.py:186} INFO - Started process (PID=44528) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:25:06.573+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-03-19T18:25:06.576+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:06.576+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:25:06.592+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-03-19T18:25:06.628+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:06.628+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:06.657+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:06.657+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:25:06.923+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.360 seconds

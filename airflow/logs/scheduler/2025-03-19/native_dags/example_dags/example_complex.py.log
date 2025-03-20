@@ -1,0 +1,35 @@
+[2025-03-19T18:23:09.674+0000] {processor.py:186} INFO - Started process (PID=43292) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:09.675+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-03-19T18:23:09.678+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:09.678+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:09.692+0000] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:09.789+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:09.788+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:10.046+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:10.045+0000] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-03-19T18:23:10.067+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.401 seconds
+[2025-03-19T18:23:40.281+0000] {processor.py:186} INFO - Started process (PID=43654) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:40.282+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-03-19T18:23:40.286+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.285+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:40.300+0000] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:23:40.347+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.347+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:40.364+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:40.364+0000] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-03-19T18:23:40.386+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2025-03-19T18:24:10.800+0000] {processor.py:186} INFO - Started process (PID=44003) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:10.802+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-03-19T18:24:10.806+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.805+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:10.820+0000] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:10.867+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.867+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:10.885+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.885+0000] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-03-19T18:24:10.905+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2025-03-19T18:24:43.832+0000] {processor.py:186} INFO - Started process (PID=44385) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:43.833+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-03-19T18:24:43.836+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.836+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:43.851+0000] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:24:43.897+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.897+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:43.915+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.915+0000] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-03-19T18:24:43.937+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2025-03-19T18:25:14.899+0000] {processor.py:186} INFO - Started process (PID=44832) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:25:14.901+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-03-19T18:25:14.904+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.904+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:25:14.919+0000] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-03-19T18:25:14.965+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.965+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:14.982+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.982+0000] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-03-19T18:25:15.003+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds

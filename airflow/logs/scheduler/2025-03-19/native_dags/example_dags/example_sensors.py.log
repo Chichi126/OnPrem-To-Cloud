@@ -1,0 +1,35 @@
+[2025-03-19T18:23:04.987+0000] {processor.py:186} INFO - Started process (PID=42960) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:04.988+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-19T18:23:04.991+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.991+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:05.004+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:05.097+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.096+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:05.111+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.110+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-19T18:23:05.136+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.157 seconds
+[2025-03-19T18:23:35.974+0000] {processor.py:186} INFO - Started process (PID=43448) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:35.975+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-19T18:23:35.978+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:35.978+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:35.991+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:23:36.033+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.033+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.050+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.049+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-19T18:23:36.069+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-03-19T18:24:06.758+0000] {processor.py:186} INFO - Started process (PID=43793) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:06.760+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-19T18:24:06.763+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.763+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:06.777+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:06.820+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:06.820+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:07.083+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.083+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-19T18:24:07.103+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.353 seconds
+[2025-03-19T18:24:37.799+0000] {processor.py:186} INFO - Started process (PID=44149) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:37.800+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-19T18:24:37.803+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.803+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:37.817+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:24:37.859+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.859+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:38.128+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:38.128+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-19T18:24:38.150+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.360 seconds
+[2025-03-19T18:25:08.762+0000] {processor.py:186} INFO - Started process (PID=44625) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:25:08.764+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-19T18:25:08.767+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.767+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:25:08.781+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-19T18:25:08.826+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.825+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:09.087+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.087+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-19T18:25:09.108+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.355 seconds

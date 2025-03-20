@@ -1,0 +1,43 @@
+[2025-03-19T18:23:01.986+0000] {processor.py:186} INFO - Started process (PID=42831) to work on /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:01.987+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/airflow/dags/dag.py for tasks to queue
+[2025-03-19T18:23:01.991+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:01.991+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:02.006+0000] {processor.py:925} INFO - DAG(s) 'data_migration' retrieved from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:02.091+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.091+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:data_migration
+[2025-03-19T18:23:02.103+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.103+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:data_migration
+[2025-03-19T18:23:02.110+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.110+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:data_migration
+[2025-03-19T18:23:02.119+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.118+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:data_migration
+[2025-03-19T18:23:02.127+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.127+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:data_migration
+[2025-03-19T18:23:02.136+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.136+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:data_migration
+[2025-03-19T18:23:02.144+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.144+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:data_migration
+[2025-03-19T18:23:02.145+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:02.160+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.160+0000] {dag.py:3262} INFO - Creating ORM DAG for data_migration
+[2025-03-19T18:23:02.173+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.173+0000] {dag.py:4180} INFO - Setting next_dagrun for data_migration to 2025-03-19 18:20:00+00:00, run_after=2025-03-19 18:22:00+00:00
+[2025-03-19T18:23:02.430+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/airflow/dags/dag.py took 0.451 seconds
+[2025-03-19T18:23:32.658+0000] {processor.py:186} INFO - Started process (PID=43324) to work on /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:32.659+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/airflow/dags/dag.py for tasks to queue
+[2025-03-19T18:23:32.662+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.662+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:32.677+0000] {processor.py:925} INFO - DAG(s) 'data_migration' retrieved from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:23:32.718+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.717+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:32.746+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.746+0000] {dag.py:4180} INFO - Setting next_dagrun for data_migration to 2025-03-19 18:20:00+00:00, run_after=2025-03-19 18:22:00+00:00
+[2025-03-19T18:23:33.011+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/airflow/dags/dag.py took 0.362 seconds
+[2025-03-19T18:24:03.592+0000] {processor.py:186} INFO - Started process (PID=43675) to work on /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:03.595+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/airflow/dags/dag.py for tasks to queue
+[2025-03-19T18:24:03.598+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.598+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:03.613+0000] {processor.py:925} INFO - DAG(s) 'data_migration' retrieved from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:03.652+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.651+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:03.679+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.679+0000] {dag.py:4180} INFO - Setting next_dagrun for data_migration to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:24:03.940+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/airflow/dags/dag.py took 0.356 seconds
+[2025-03-19T18:24:34.331+0000] {processor.py:186} INFO - Started process (PID=44025) to work on /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:34.333+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/airflow/dags/dag.py for tasks to queue
+[2025-03-19T18:24:34.336+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.336+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:34.351+0000] {processor.py:925} INFO - DAG(s) 'data_migration' retrieved from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:24:34.389+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:34.415+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.415+0000] {dag.py:4180} INFO - Setting next_dagrun for data_migration to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:24:34.686+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/airflow/dags/dag.py took 0.363 seconds
+[2025-03-19T18:25:05.270+0000] {processor.py:186} INFO - Started process (PID=44501) to work on /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:25:05.272+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/airflow/dags/dag.py for tasks to queue
+[2025-03-19T18:25:05.275+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.274+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:25:05.290+0000] {processor.py:925} INFO - DAG(s) 'data_migration' retrieved from /home/amdari/apex-env/airflow/dags/dag.py
+[2025-03-19T18:25:05.330+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.329+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:05.357+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.357+0000] {dag.py:4180} INFO - Setting next_dagrun for data_migration to 2025-03-19 18:22:00+00:00, run_after=2025-03-19 18:24:00+00:00
+[2025-03-19T18:25:05.630+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/airflow/dags/dag.py took 0.369 seconds

@@ -1,0 +1,35 @@
+[2025-03-19T18:23:02.016+0000] {processor.py:186} INFO - Started process (PID=42834) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:02.017+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-19T18:23:02.021+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.020+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:02.034+0000] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:02.124+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.124+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:02.142+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:02.141+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-19T18:23:02.404+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.397 seconds
+[2025-03-19T18:23:32.668+0000] {processor.py:186} INFO - Started process (PID=43327) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:32.669+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-19T18:23:32.672+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.671+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:32.683+0000] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:23:32.720+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.719+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:32.737+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:32.737+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-19T18:23:32.758+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.099 seconds
+[2025-03-19T18:24:03.602+0000] {processor.py:186} INFO - Started process (PID=43678) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:03.604+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-19T18:24:03.607+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.607+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:03.618+0000] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:03.652+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.652+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:03.669+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:03.669+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-19T18:24:03.689+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.096 seconds
+[2025-03-19T18:24:34.341+0000] {processor.py:186} INFO - Started process (PID=44028) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:34.343+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-19T18:24:34.346+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.345+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:34.357+0000] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:24:34.389+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.389+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:34.406+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:34.406+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-19T18:24:34.427+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.094 seconds
+[2025-03-19T18:25:05.280+0000] {processor.py:186} INFO - Started process (PID=44504) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:25:05.282+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-03-19T18:25:05.285+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.284+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:25:05.296+0000] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-03-19T18:25:05.331+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.330+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:05.348+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:05.348+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-03-19T18:25:05.368+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.097 seconds

@@ -1,0 +1,55 @@
+[2025-03-19T18:23:07.011+0000] {processor.py:186} INFO - Started process (PID=43109) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:07.012+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-03-19T18:23:07.016+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.016+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:07.020+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.019+0000] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-03-19T18:23:07.020+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:07.020+0000] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-03-19T18:23:07.021+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:07.047+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.044 seconds
+[2025-03-19T18:23:37.442+0000] {processor.py:186} INFO - Started process (PID=43550) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:37.443+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-03-19T18:23:37.447+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.446+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:37.451+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.451+0000] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-03-19T18:23:37.452+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:37.452+0000] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-03-19T18:23:37.452+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:23:37.479+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2025-03-19T18:24:09.397+0000] {processor.py:186} INFO - Started process (PID=43901) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:09.399+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-03-19T18:24:09.403+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:09.407+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.407+0000] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-03-19T18:24:09.408+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.408+0000] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-03-19T18:24:09.408+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:09.435+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.047 seconds
+[2025-03-19T18:24:41.446+0000] {processor.py:186} INFO - Started process (PID=44281) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:41.447+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-03-19T18:24:41.451+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:41.450+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:41.455+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:41.454+0000] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-03-19T18:24:41.456+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:41.455+0000] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-03-19T18:24:41.456+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:24:41.485+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.048 seconds
+[2025-03-19T18:25:11.998+0000] {processor.py:186} INFO - Started process (PID=44722) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:25:12.000+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-03-19T18:25:12.003+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:12.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:25:12.008+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:12.007+0000] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-03-19T18:25:12.008+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:12.008+0000] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-03-19T18:25:12.008+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-03-19T18:25:12.036+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.047 seconds

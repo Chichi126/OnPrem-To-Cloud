@@ -1,0 +1,35 @@
+[2025-03-19T18:23:08.474+0000] {processor.py:186} INFO - Started process (PID=43262) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:08.475+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-19T18:23:08.478+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:08.478+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:08.489+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:08.580+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:08.580+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:08.606+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:08.606+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:08.629+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.164 seconds
+[2025-03-19T18:23:39.514+0000] {processor.py:186} INFO - Started process (PID=43624) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:39.515+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-19T18:23:39.518+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.518+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:39.529+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:23:39.565+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.565+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:39.594+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:39.593+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:23:39.614+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-03-19T18:24:10.452+0000] {processor.py:186} INFO - Started process (PID=43973) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:10.454+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-19T18:24:10.458+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.457+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:10.469+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:10.505+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.504+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:10.532+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:10.532+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:10.554+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.110 seconds
+[2025-03-19T18:24:43.386+0000] {processor.py:186} INFO - Started process (PID=44357) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:43.387+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-19T18:24:43.390+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.390+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:43.402+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:24:43.440+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.439+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:43.468+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:43.468+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:24:43.493+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.116 seconds
+[2025-03-19T18:25:14.466+0000] {processor.py:186} INFO - Started process (PID=44802) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:25:14.468+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-19T18:25:14.471+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.470+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:25:14.482+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-19T18:25:14.518+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.517+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:14.545+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:14.545+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-18 00:00:00+00:00, run_after=2025-03-19 00:00:00+00:00
+[2025-03-19T18:25:14.564+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.107 seconds

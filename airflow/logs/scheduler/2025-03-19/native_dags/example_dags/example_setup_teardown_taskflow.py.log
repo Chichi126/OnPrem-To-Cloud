@@ -1,0 +1,35 @@
+[2025-03-19T18:23:04.996+0000] {processor.py:186} INFO - Started process (PID=42963) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:04.997+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-19T18:23:05.000+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.000+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:05.013+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:05.101+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:05.116+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.115+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-19T18:23:05.139+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.152 seconds
+[2025-03-19T18:23:36.108+0000] {processor.py:186} INFO - Started process (PID=43454) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:36.109+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-19T18:23:36.113+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.112+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:36.126+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:23:36.163+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.162+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.426+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.425+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-19T18:23:36.444+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.345 seconds
+[2025-03-19T18:24:07.151+0000] {processor.py:186} INFO - Started process (PID=43805) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:07.154+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-19T18:24:07.158+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.157+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:07.174+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:07.213+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.213+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:07.481+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.480+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-19T18:24:07.499+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.359 seconds
+[2025-03-19T18:24:37.959+0000] {processor.py:186} INFO - Started process (PID=44155) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:37.960+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-19T18:24:37.963+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:37.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:37.977+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:24:38.015+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:38.014+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:38.282+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:38.282+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-19T18:24:38.303+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.353 seconds
+[2025-03-19T18:25:08.976+0000] {processor.py:186} INFO - Started process (PID=44631) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:25:08.978+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-19T18:25:08.981+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:08.981+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:25:08.995+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-19T18:25:09.033+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.033+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:09.298+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.297+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-19T18:25:09.321+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.354 seconds

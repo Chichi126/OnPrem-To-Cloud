@@ -1,0 +1,35 @@
+[2025-03-19T18:23:06.304+0000] {processor.py:186} INFO - Started process (PID=43073) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:06.306+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-19T18:23:06.309+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.308+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:06.319+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:06.410+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.409+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:06.423+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:06.423+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-19T18:23:06.445+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.149 seconds
+[2025-03-19T18:23:36.923+0000] {processor.py:186} INFO - Started process (PID=43508) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:36.925+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-19T18:23:36.929+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.928+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:36.941+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:23:36.979+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.978+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.996+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.996+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-19T18:23:37.019+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.106 seconds
+[2025-03-19T18:24:08.958+0000] {processor.py:186} INFO - Started process (PID=43865) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:08.960+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-19T18:24:08.963+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:08.973+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:09.010+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.009+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:09.027+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:09.027+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-19T18:24:09.049+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.100 seconds
+[2025-03-19T18:24:39.880+0000] {processor.py:186} INFO - Started process (PID=44231) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:39.881+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-19T18:24:39.885+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:39.895+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:24:39.935+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.934+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:40.194+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:40.193+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-19T18:24:40.214+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.344 seconds
+[2025-03-19T18:25:10.931+0000] {processor.py:186} INFO - Started process (PID=44692) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:25:10.933+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-19T18:25:10.936+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.936+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:25:10.946+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-19T18:25:10.986+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.985+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:11.242+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:11.241+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-19T18:25:11.260+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.338 seconds

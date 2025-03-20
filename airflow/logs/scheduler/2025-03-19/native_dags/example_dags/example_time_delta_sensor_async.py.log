@@ -1,0 +1,35 @@
+[2025-03-19T18:23:04.028+0000] {processor.py:186} INFO - Started process (PID=42916) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:04.029+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-19T18:23:04.033+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.032+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:04.040+0000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:04.130+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.129+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:04.147+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:04.147+0000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-19T18:23:04.172+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.153 seconds
+[2025-03-19T18:23:34.831+0000] {processor.py:186} INFO - Started process (PID=43406) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:34.832+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-19T18:23:34.836+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.835+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:34.843+0000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:23:34.878+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.878+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:34.896+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:34.895+0000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-19T18:23:34.918+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.095 seconds
+[2025-03-19T18:24:05.632+0000] {processor.py:186} INFO - Started process (PID=43757) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:05.634+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-19T18:24:05.638+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.637+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:05.645+0000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:05.683+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.682+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:05.701+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:05.700+0000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-19T18:24:05.722+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.099 seconds
+[2025-03-19T18:24:36.469+0000] {processor.py:186} INFO - Started process (PID=44107) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:36.470+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-19T18:24:36.473+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.473+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:36.481+0000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:24:36.519+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:36.537+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:36.536+0000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-19T18:24:36.560+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.099 seconds
+[2025-03-19T18:25:07.415+0000] {processor.py:186} INFO - Started process (PID=44582) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:25:07.417+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-19T18:25:07.420+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.419+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:25:07.427+0000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-19T18:25:07.466+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.466+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:07.485+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:07.485+0000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-19T18:25:07.507+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.101 seconds

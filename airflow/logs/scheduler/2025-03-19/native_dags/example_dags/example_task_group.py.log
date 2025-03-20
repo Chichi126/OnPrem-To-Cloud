@@ -1,0 +1,35 @@
+[2025-03-19T18:23:05.564+0000] {processor.py:186} INFO - Started process (PID=42990) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:05.565+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-19T18:23:05.569+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.568+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:05.579+0000] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:05.667+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.667+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:05.681+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:05.680+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-19T18:23:05.702+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.147 seconds
+[2025-03-19T18:23:36.554+0000] {processor.py:186} INFO - Started process (PID=43478) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:36.555+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-19T18:23:36.559+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.558+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:36.570+0000] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:23:36.610+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.610+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:23:36.628+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:23:36.627+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-19T18:23:36.647+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.101 seconds
+[2025-03-19T18:24:07.926+0000] {processor.py:186} INFO - Started process (PID=43829) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:07.928+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-19T18:24:07.931+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.931+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:07.942+0000] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:07.980+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:07.980+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:08.242+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:08.241+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-19T18:24:08.262+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.345 seconds
+[2025-03-19T18:24:38.726+0000] {processor.py:186} INFO - Started process (PID=44180) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:38.727+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-19T18:24:38.730+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:38.730+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:38.741+0000] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:24:38.779+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:38.778+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:24:39.040+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:24:39.040+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-19T18:24:39.060+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.344 seconds
+[2025-03-19T18:25:09.757+0000] {processor.py:186} INFO - Started process (PID=44655) to work on /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:25:09.759+0000] {processor.py:914} INFO - Processing file /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-19T18:25:09.763+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.762+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:25:09.774+0000] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-19T18:25:09.812+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:09.812+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-19T18:25:10.076+0000] {logging_mixin.py:190} INFO - [2025-03-19T18:25:10.075+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-19T18:25:10.096+0000] {processor.py:208} INFO - Processing /home/amdari/apex-env/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.348 seconds
